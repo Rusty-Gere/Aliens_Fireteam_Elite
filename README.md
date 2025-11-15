@@ -1,7 +1,6 @@
 # Aliens: Fireteam Elite
-A UEVR MOD for Aliens: Fireteam Elite, featuring 
-## Gesture Reactive Input Protocol.
-
+## G.R.I.P. - Gesture Reactive Input Protocol.
+A UEVR MOD for Aliens: Fireteam Elite
 
 ________________________________________________________________________
 I do this for free, but please consider a donation if you enjoy my work. 
