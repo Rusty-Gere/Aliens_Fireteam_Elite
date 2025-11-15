@@ -1,4 +1,5 @@
 # Aliens: Fireteam Elite
+featuring
 ## G.R.I.P. - Gesture Reactive Input Protocol.
 A UEVR MOD for Aliens: Fireteam Elite
 
