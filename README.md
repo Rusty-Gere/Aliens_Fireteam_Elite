@@ -24,10 +24,10 @@ A UEVR MOD for Aliens: Fireteam Elite, featuring
 1. Download and install UEVR injector from [HERE](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01115-e630558f92491cdc3b88d1a84f8bb37b5b0bec9f)
  (This is the latest version confirmed to work with the MOD. Anything later should also be fine).
 
-2. Download the Aliens: Fireteam Elite UEVR MOD from [HERE](https://github.com/Rusty-Gere/Aliens_Fireteam_Elite/releases/tag/First_release)
+2. Download the Aliens: Fireteam Elite G.R.I.P. MOD from [HERE](https://github.com/Rusty-Gere/Aliens_Fireteam_Elite/releases/tag/First_release)
 
 3. Run the UEVR injector, then click "Import Config" in the left-hand menu.
-Navigate to where you saved the MOD, it should be named "Endeavor-Win64-Shipping.zip", click on the file to import.
+Navigate to where you saved the MOD, it should be named "Endeavor-Win64-Shipping.zip", select the file and click Open to import. A File Explorer window will open, you can just close that again, the file is now imported.
 
 4. With UEVR injector running, launch the game, tab to UEVR injector, locate the game in the process dropdown list, and click Inject.
 
@@ -55,15 +55,15 @@ If in doubt or stuck, just view the controls overview in the MOD UI screen.
 * JBusfield for his extensive helper libraries
 * DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders for sharing examples and answering a thousand questions.
 ________________________________________________________________________
-I do this for free, but please consider a donation if you enjoy my work. 
-This way I can justify spending more time on this, and buy my wife stuff 
-so she lets me work in peace. :)
 
 <details><summary><b>💰 Tip Me</b></summary>
 
 [Click for Donation Options](https://rusty-gere.github.io/)
 
 </details>
+I do this for free, but please consider a donation if you enjoy my work. 
+This way I can justify spending more time on this, and buy my wife stuff 
+so she lets me work in peace. :)
 
 Thanks for the support! 🚀
 
