@@ -1,7 +1,6 @@
 # Aliens: Fireteam Elite
-featuring
+A UEVR MOD for Aliens: Fireteam Elite, featuring
 ## G.R.I.P. - Gesture Reactive Input Protocol.
-A UEVR MOD for Aliens: Fireteam Elite
 
 ## Features
 * 6DOF motion controls
@@ -55,13 +54,6 @@ If in doubt or stuck, just view the controls overview in the MOD UI screen.
 * Praydog for the incredible UEVR injector
 * JBusfield for his extensive helper libraries
 * DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders for sharing examples and answering a thousand questions.
-
-
-## Footnote
-I started working on this MOD three months ago from scratch, knowing nothing about either Lua or the UE engine at the time. My plan back then was something much simpler, but as I learned more and experimented more, feature creep set in and I ended up with a much more extensive MOD than originally planned. I hope you find as much enjoyment out of playing it as what I did in overcoming the challenge of creating something like this.
-
-So, to other aspiring modders out there, it really is true, you can just do things. :)
-
 ________________________________________________________________________
 I do this for free, but please consider a donation if you enjoy my work. 
 This way I can justify spending more time on this, and buy my wife stuff 
@@ -74,3 +66,11 @@ so she lets me work in peace. :)
 </details>
 
 Thanks for the support! 🚀
+
+
+## Footnote
+V1.0 published on 17 Nov 2025
+
+I started working on this MOD three months ago from scratch, knowing nothing about either Lua or the UE engine at the time. My plan back then was something much simpler, but as I learned more and experimented more, feature creep set in and this ended being a far more extensive MOD than originally planned. I hope you find as much enjoyment out of playing it as what I did in overcoming the challenge of creating it.
+
+To other aspiring modders out there, it really is true, you can just do things. :)
