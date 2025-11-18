@@ -44,7 +44,7 @@ If it doesn't show by itself, hit the Ins key or click both controller sticks, t
 For example, grab primary weapon over shoulder, grab pistol from hip, apply first-aid at mouth or chest, etc.
 If in doubt or stuck, just view the controls overview in the MOD UI screen.
 > * When manually reloading (grab ammo from hip, hold grip and release at gun), you won't see actual ammo in your hand. Just pretend it's there. :)
-> * Motion direction is where you point the gun, this makes it easier to run one way while looking in another direction.
+> * Motion direction by default is where you point the gun, this makes it easier to run one way while looking in another direction. You can change this to HMD-based in the options.
 > * The ADS Reticle is attached to the weapon and appears when you activate ADS. For best accuracy, aim down the gun's actual sights as you would IRL.
 > * When you toggle the HUD off, be aware that you won't see the 'interact' (X) prompts (terminals, NPCs).
 > * Shoulder swap function is disabled as it breaks first-person VR when engaged.
