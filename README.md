@@ -2,7 +2,7 @@
 A UEVR MOD for Aliens: Fireteam Elite, featuring
 ## G.R.I.P. - Gesture Reactive Input Protocol.
 
-## Features
+## Features - v1.0
 * 6DOF motion controls
 * Articulated hands
 * Full Right- and Left-handed controls support
@@ -17,14 +17,23 @@ A UEVR MOD for Aliens: Fireteam Elite, featuring
 * HUD visibility toggle for full VR immersion
 * Different camera modes for UI and menus vs gameplay
 * Custom G.R.I.P config UI with controls overview
-
+  
 ...and more.
 
-## How to install and run
-1. Download and install UEVR injector from [HERE](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01115-e630558f92491cdc3b88d1a84f8bb37b5b0bec9f)
- (This is the latest version confirmed to work with the MOD. Anything later should also be fine).
+## Update - v2.0
+* Reworked pistol swap and reload zones, now located front-center on belt. Gun hand will swap to pistol, off-hand will grab ammo.
+* Controllers now buzz when entering Pistol and reload zones to clearly indicate the ammo clips and pistol swap locations.
+* Fixed visual issue with flamethrower weapon.	
+* New option to attach HUD to weapon or helmet.
+* Custom GRIP UI can now be closed on main monitor, for clean screen capture.
+* When opting to swap sticks, stick clicks now swap along with movement/orientation.
+* Tweaked crouch sensitivity to require less vertical motion.
 
-2. Download the Aliens: Fireteam Elite G.R.I.P. MOD from [HERE](https://github.com/Rusty-Gere/Aliens_Fireteam_Elite/releases/tag/First_release)
+## How to install and run
+1. Download and install UEVR injector from [HERE](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01126-7252d6b0b1c83c306db29d0c449659a3792b7518)
+ (This is the latest version confirmed to work with the MOD. Anything later should be fine though, hopefully!).
+
+2. Download the Aliens: Fireteam Elite G.R.I.P. MOD from [HERE](https://github.com/Rusty-Gere/Aliens_Fireteam_Elite/releases/tag/v2.0)
 
 3. Run the UEVR injector, then click "Import Config" in the left-hand menu.
 Navigate to where you saved the MOD, it should be named "Endeavor-Win64-Shipping.zip", select the file and click Open to import. A File Explorer window will open, you can just close that again, the file is now imported.
@@ -48,12 +57,8 @@ If in doubt or stuck, just view the controls overview in the MOD UI screen.
 > * The ADS Reticle is attached to the weapon and appears when you activate ADS. For best accuracy, aim down the gun's actual sights as you would IRL.
 > * When you toggle the HUD off, be aware that you won't see the 'interact' (X) prompts (terminals, NPCs).
 > * Shoulder swap function is disabled as it breaks first-person VR when engaged.
+> * When stick swap is enabled then motion direction is always forced to the weapon. This is a UEVR limitation and so far there is no known workaround.
 > * Dev'd and tested on Quest 3, but should work with any HMD and controller set. 
-
-## Credits and Thank-you
-* Praydog for the incredible UEVR injector
-* JBusfield for his extensive helper libraries
-* DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders for sharing examples and answering a thousand questions.
 ________________________________________________________________________
 
 <details><summary><b>💰 Tip Me</b></summary>
@@ -67,7 +72,12 @@ so she lets me work in peace. :)
 
 Thanks for the support! 🚀
 
-
+________________________________________________________________________
+## Credits and Thank-you
+* Elliot Tate for creating the Flat2VR community Discord
+* Praydog for the incredible UEVR injector
+* JBusfield for his extensive helper libraries
+* DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders for sharing examples and answering a thousand questions.
 ## Footnote
 V1.0 published on 17 Nov 2025
 
