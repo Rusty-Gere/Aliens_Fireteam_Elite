@@ -30,7 +30,7 @@ A UEVR MOD for Aliens: Fireteam Elite, featuring
 * Tweaked crouch sensitivity to require less vertical motion.
 
 ## How to install and run
-1. Download and install UEVR injector from [HERE](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01126-7252d6b0b1c83c306db29d0c449659a3792b7518)
+1. Requires UEVR nightly. Download and install UEVR injector from [HERE](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01126-7252d6b0b1c83c306db29d0c449659a3792b7518)
  (This is the latest version confirmed to work with the MOD. Anything later should be fine though, hopefully!).
 
 2. Download the Aliens: Fireteam Elite G.R.I.P. MOD from [HERE](https://github.com/Rusty-Gere/Aliens_Fireteam_Elite/releases/tag/v2.0)
@@ -46,6 +46,8 @@ Navigate to where you saved the MOD, it should be named "Endeavor-Win64-Shipping
 ## 
 
 > [!NOTE]
+> * This is a standing, room-scale experience.
+> * You must use the UEVR nightly linked above (or later).
 > * All controls are explained in the custom UI when you run the game with the MOD installed, and is contextual to Right- and Left-handed mode.
 > * When the game starts for the first time with this MOD installed, you will see a custom UI with various Options and the Controls overview.
 If it doesn't show by itself, hit the Ins key or click both controller sticks, then click on the GRIP tab.
